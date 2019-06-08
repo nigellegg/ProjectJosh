@@ -1,0 +1,47 @@
+{
+	{
+		"id": 1,
+		"lattitude": 51,
+		"longitude": -1,
+		"name": "Johns hats",
+		"categories": "milliner",
+		"product": "hats",
+		"cancer_types": 
+	}
+	{
+		"id": 2,
+		"lattitude": 51,
+		"longitude": -1.5,
+		"name": "Janes Wigs",
+		"categories": "wig shop",
+		"product": "wigs",
+		"cancer_types": 
+	}
+	{
+		"id": 3,
+		"lattitude": 52,
+		"longitude": -1,
+		"name": "Cancer Support",
+		"categories": "care",
+		"product": "support",
+		"cancer_types": 
+	}
+	{
+		"id": 4,
+		"lattitude": 51,
+		"longitude": -1,
+		"name": "Lymphoma Support",
+		"categories": "care",
+		"product": "carers",
+		"cancer_types": "Lymphoma"
+	}
+	{
+		"id": 5,
+		"lattitude": 51,
+		"longitude": -1,
+		"name": "Blood bank",
+		"categories": "medical",
+		"product": "blood products",
+		"cancer_types": "Leukaemia"
+	}
+}
